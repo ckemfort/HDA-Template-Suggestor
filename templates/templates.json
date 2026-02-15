@@ -1,0 +1,963 @@
+[
+  {
+    "id": "scholarships_and_financing",
+    "intent": "scholarships_and_financing",
+    "title": {
+      "en": "Scholarships and Financing",
+      "de": "Stipendien und Finanzierung"
+    },
+    "description": {
+      "en": "Reply template: Scholarships and Financing.",
+      "de": "Antwortvorlage: Stipendien und Finanzierung."
+    },
+    "keywords": {
+      "en": [
+        "scholarship application",
+        "daad",
+        "financial hardship",
+        "scholarship opportunities",
+        "scholarship",
+        "stipendium",
+        "tu darmstadt scholarships",
+        "deutschlandstipendium",
+        "graduation scholarship",
+        "equal opportunities scholarship",
+        "partial funding",
+        "scholarship deadlines",
+        "daad scholarship database",
+        "semester fee",
+        "living costs darmstadt",
+        "studierendenwerk scholarships"
+      ],
+      "de": [
+        "bewerben",
+        "chancengerechtigkeit",
+        "daad",
+        "semesterbeitrag",
+        "stipendien",
+        "stipendium",
+        "studienabschluss",
+        "studierendenwerk",
+        "stipendien tu darmstadt",
+        "deutschlandstipendium",
+        "studienabschluss-stipendium",
+        "stipendium chancengerechtigkeit",
+        "teilfinanzierung",
+        "daad stipendien-datenbank",
+        "lebenshaltungskosten darmstadt",
+        "studierendenwerk stipendien"
+      ]
+    },
+    "contacts": {
+      "emails": [
+        "stipendien-international@zv.tu-darmstadt.de"
+      ]
+    },
+    "links": [
+      "https://www.tu-darmstadt.de/deutschlandstipendium/",
+      "https://www.tu-darmstadt.de/financial-assistance",
+      "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/",
+      "https://www2.daad.de/deutschland/stipendium/datenbank/de/21148-stipendiendatenbank/",
+      "https://studierendenwerkdarmstadt.de/en/counseling-and-social-affairs/information-living-studying-darmstadt/finding-scholarships/",
+      "https://studierendenwerkdarmstadt.de/beratung-und-soziales/faqs-zum-leben-und-studieren-in-darmstadt/stipendium-finden/",
+      "https://www.tu-darmstadt.de/studieren/studieren_von_a_bis_z/artikel_details_de_en_286144.en.jsp",
+      "https://www.tu-darmstadt.de/studieren/studieren_von_a_bis_z/artikel_details_de_en_286144.de.jsp",
+      "https://www.tu-darmstadt.de/funding-and-career",
+      "https://www.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/",
+      "https://www.daad.de/deutschland/stipendium/datenbank/de/21148-stipendiendatenbank/"
+    ],
+    "body": {
+      "en": "Dear {student_name},\nThank you for your e-mail.\nAs an international student, you can apply for the following scholarships through TU\nDarmstadt.\n1. Deutschland Stipendium – Covers up to 12 months. You can apply from September.\n2. Graduation Scholarship – For the final phase of your studies when you are writing the\nthesis. You can apply in October and April.\n3. Scholarship for More Equal Opportunities – for students facing special challenges, e.g.\ndisability or chronic illness. You can apply in July/ August and January/ February.\nYou can also contact the office for student affairs at your department to find out if they offer\nany scholarships of their own.\nIf you have more specific questions regarding scholarships, you can contact our scholarship\nteam directly at stipendien-international@zv.tu-darmstadt.de\nPlease note that these scholarships provide partial funding to support you during the\nrelevant period. For full funding opportunities, please check the options from DAAD. You can\nfind more information about these other financing opportunities on our website.\nStudierendenwerk Darmstadt also offers valuable information on this topic.\nStudying at TU Darmstadt is tuition-free, but every student has to pay a semester fee each\nsemester. This fee covers various benefits, including access to public transportation in our\nregion and Germany. Please also inform yourself about the average living costs in\nDarmstadt.\nBest regards,\nInternational Student Services Team\nHyperlinks from above:\nDeutschland Stipendium: https://www.tu-darmstadt.de/deutschlandstipendium\nGraduation Scholarship: www.tu-darmstadt.de/financial-assistance\nScholarship for More Equal Opportunities: www.tu-darmstadt.de/financial-assistance\nDAAD Scholarships:\nhttps://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/\nOther financing opportunities: www.tu-darmstadt.de/financial-assistance\nStudierendenwerk Darmstadt:\nhttps://studierendenwerkdarmstadt.de/en/counseling-and-social-affairs/information-living-stu\ndying-darmstadt/finding-scholarships/\nSemester Fee:\nhttps://www.tu-darmstadt.de/studieren/studieren_von_a_bis_z/artikel_details_de_en_286144\n.en.jsp\nAverage living costs in Darmstadt: www.tu-darmstadt.de/funding-and-career",
+      "de": "Guten Tag {student_name},\nvielen Dank für deine E-Mail.\nDu kannst dich für folgende Stipendien der Universität bewerben:\n1. Deutschland-Stipendium – Es läuft maximal 12 Monate. Du kannst dich ab\nSeptember bewerben.\n2. Studienabschluss-Stipendium – Es ist für die Endphase deines Studiums, wenn du\ndeine Abschlussarbeit schreibst. Du kannst dich im Oktober und April bewerben.\n3. Stipendium für mehr Chancengerechtigkeit – für Studierende, die besondere\nHerausforderungen im Studium bewältigen müssen, z.B. Behinderung oder\nchronische Erkrankung\nDu kannst auch das Studienbüro an deinem Fachbereich kontaktieren, um herauszufinden,\nob sie eigene Stipendien vergeben.\nWenn du mehr Fragen zu Stipendien hast, kannst du unser Stipendien-Team direkt über\nstipendien-international@zv.tu-darmstadt.de kontaktieren.\nDiese Stipendien unterstützen dich teilweise. Für eine Vollfinanzierung schau dir bitte die\nAngebote des DAAD an. Mehr Infos zur Finanzierung findest du auf unserer Website und\nbeim Studierendenwerk Darmstadt.\nAn unserer Universität gibt es keine Studiengebühr, aber den Semesterbeitrag. Diesen\nBeitrag müssen alle Studierenden jedes Semester zahlen. Er zahlt unter anderem für die\nNutzung der öffentlichen Verkehrsmittel in unserer Region und in Deutschland. Bitte\ninformiere dich auch über die durchschnittlichen Lebenshaltungskosten in Darmstadt.\nMit freundlichen Grüßen\nInternational Student Services Team\nHyperlinks von oben:\nDeutschland-Stipendium: https://www.tu-darmstadt.de/deutschlandstipendium\nStudienabschluss-Stipendium: www.tu-darmstadt.de/financial-assistance\nStipendium für mehr Chancengerechtigkeit: www.tu-darmstadt.de/financial-assistance\nDAAD:\nhttps://www2.daad.de/deutschland/stipendium/datenbank/de/21148-stipendiendatenbank/\nAndere Finanzierungmöglichkeiten: www.tu-darmstadt.de/financial-assistance\nStudierendenwerk Darmstadt:\nhttps://studierendenwerkdarmstadt.de/beratung-und-soziales/faqs-zum-leben-und-studieren-\nin-darmstadt/stipendium-finden/\nSemesterbeitrag:\nhttps://www.tu-darmstadt.de/studieren/studieren_von_a_bis_z/artikel_details_de_en_286144\n.de.jsp\nDurchschnittlichen Lebenshaltungskosten in Darmstadt:\nwww.tu-darmstadt.de/funding-and-career"
+    }
+  },
+  {
+    "id": "studierende_in_not_students_in_need",
+    "intent": "studierende_in_not_students_in_need",
+    "title": {
+      "en": "Students in need",
+      "de": "Studierende in Not"
+    },
+    "description": {
+      "en": "Reply template: Studierende in Not / Students in need.",
+      "de": "Antwortvorlage: Studierende in Not / Students in need."
+    },
+    "keywords": {
+      "en": [
+        "asta",
+        "directly",
+        "foerderverein",
+        "need",
+        "not",
+        "student emergency funding",
+        "financial emergency",
+        "hardship case",
+        "foerderverein emergency support",
+        "private donations",
+        "better tugether support"
+      ],
+      "de": [
+        "arbeiten",
+        "asta",
+        "foerderverein",
+        "förderverein",
+        "geratene",
+        "not",
+        "soziales",
+        "unterstützung",
+        "verein",
+        "studierende in not",
+        "finanzielle notlage",
+        "härtefall",
+        "förderverein notfälle",
+        "ehrenamtlich",
+        "better tugether unterstützung"
+      ]
+    },
+    "contacts": {
+      "emails": [
+        "antrag@foerderverein.asta.tu-darmstadt.de"
+      ]
+    },
+    "links": [
+      "https://www.asta.tu-darmstadt.de/en/node/1466",
+      "https://www.asta.tu-darmstadt.de/de/soziales/foerderverein",
+      "https://www.tu-darmstadt.de/bettertugether/projekte_bettertugether/expert_innen_interviews/dein_plan_fuer_alle_faelle/index.de.jsp"
+    ],
+    "body": {
+      "en": "Dear {student_name},\nThank you for letting us about your situation. We understand that this is a difficult time for you.\nHere are some organisations that can help you in this case. Please contact them directly:\n● The Förderverein für in Not geratene Studierende der Technischen Universität Darmstadt\ne.V. provides financial support in emergencies and cases of particular hardship. The members\nof the association work purely on a voluntary basis and with money from private donations,\nthe student body and TU Darmstadt.\nThe association is a registered organisation and has nothing to do legally with the AStA.\nPlease therefore submit your enquiries directly to the association.\nEmail: antrag@foerderverein.asta.tu-darmstadt.de\nWebsite: https://www.asta.tu-darmstadt.de/en/node/1466\n● Better Tugether TU Darmstadt\nIf you require further assistance let us know. We are here for you.\nBest regards,\nInternational Student Services Team\nHyperlinks from above:\nFörderverein für in Not geratene Studierende: https://www.asta.tu-darmstadt.de/en/node/1466\nBetter Tugether TU Darmstadt:\nhttps://www.tu-darmstadt.de/bettertugether/projekte_bettertugether/expert_innen_interviews/dein_plan_fu\ner_alle_faelle/index.de.jsp",
+      "de": "Guten Tag {student_name},\nvielen Dank, dass du uns über deine Situation informierst. Wir verstehen, dass dies eine schwierige\nZeit für dich ist.\nHier sind einige Organisationen, die dir in diesem Fall helfen können. Bitte kontaktiere sie direkt:\n● Der Förderverein für in Not geratene Studierende der Technischen Universität Darmstadt\ne.V. bietet finanzielle Unterstützung in Notfällen und besonderen Härtefällen. Die\nVereinsmitglieder arbeiten rein ehrenamtlich und mit Geld aus privaten Spenden, der\nStudierendenschaft und der TU Darmstadt.\nDer Verein ist ein eingetragener Verein und hat mit dem AStA rechtlich nichts zu tun. Bitte\nstellt deine Anfragen auch direkt beim Verein:\nE-Mail: antrag@foerderverein.asta.tu-darmstadt.de\nWebseite: https://www.asta.tu-darmstadt.de/de/soziales/foerderverein\n● Better TUgether TU Darmstadt\nWenn du weitere Unterstützung benötigst, lass uns es wissen. Wir sind für dich da.\nMit freundlichen Grüßen\nInternational Student Services Team\nHyperlinks von oben:\nFörderverein für in Not geratene Studierende: https://www.asta.tu-darmstadt.de/de/soziales/foerderverein\nBetter Tugether TU Darmstadt:\nhttps://www.tu-darmstadt.de/bettertugether/projekte_bettertugether/expert_innen_interviews/dein_plan_fu\ner_alle_faelle/index.de.jsp"
+    }
+  },
+  {
+    "id": "athena_card",
+    "intent": "athena_card",
+    "title": {
+      "en": "Athena card",
+      "de": "Athena card"
+    },
+    "description": {
+      "en": "Reply template: Athena card.",
+      "de": "Antwortvorlage: Athena card."
+    },
+    "keywords": {
+      "en": [
+        "anlaufstellen",
+        "anleitungen",
+        "applying",
+        "athena",
+        "athene",
+        "card",
+        "hrz",
+        "athena card",
+        "athene card",
+        "library card",
+        "canteen payment",
+        "hrz service counter"
+      ],
+      "de": [
+        "athena",
+        "karte",
+        "athene-karte",
+        "athena card",
+        "studierendenausweis",
+        "bibliotheksausweis",
+        "mensakarte",
+        "hrz service-theke"
+      ]
+    },
+    "contacts": {
+      "emails": []
+    },
+    "links": [
+      "https://www.hrz.tu-darmstadt.de/services/it_services/athene_karte/index.de.jsp",
+      "https://www.hrz.tu-darmstadt.de/services/it_services/athene_karte/index.en.jsp"
+    ],
+    "body": {
+      "en": "Dear {student_name},\nThank you for your e-mail.\nYou can use the Athena Card for the following purposes:\n● Borrow books and media from the libraries of TU Darmstadt\n● As a payment function for services offered by Studierendenwerk (canteen, etc.)\n● and many more\nTo get your personal Athena Card please follow the instruction on the HRZ website.\nIf you are not in Germany yet, we recommend you wait and apply for the Athena Card once\nyou arrive in Darmstadt. Alternatively, you can visit HRZ on campus, apply for your card and\nget your photo there. Please note that the Athena Card will only be issued if you can present\nan official identification.\nWe recommend you watch the step-by-step-video for applying to the Athena Card.\nBest regards,\nInternational Student Services Team\nHyperlinks from above:\nHRZ Athena Card Website:\nhttps://www.hrz.tu-darmstadt.de/services/it_services/athene_karte/index.en.jsp\nHRZ service counters:\nhttps://www.hrz.tu-darmstadt.de/support_und_anleitungen/anlaufstellen/index.en.jsp#service\ntheken_1\nStep-by-step video:\nhttps://download.hrz.tu-darmstadt.de/media/HRZ/Einfuehrung-GGV/Athene_Karte/2023-03-g\net_your_Athene_card_EN.mp4"
+    }
+  },
+  {
+    "id": "admission_deferral",
+    "intent": "admission_deferral",
+    "title": {
+      "en": "Admission deferral",
+      "de": "Admission deferral"
+    },
+    "description": {
+      "en": "Reply template: Admission deferral.",
+      "de": "Antwortvorlage: Admission deferral."
+    },
+    "keywords": {
+      "en": [
+        "admission",
+        "defer",
+        "deferral",
+        "admission deferral",
+        "defer admission",
+        "postpone admission",
+        "international admission office"
+      ],
+      "de": [
+        "zulassung",
+        "zulassung verschieben",
+        "verschiebung der zulassung",
+        "zulassung international"
+      ]
+    },
+    "contacts": {
+      "emails": [
+        "international.admission@zv.tu-darmstadt.de"
+      ]
+    },
+    "links": [],
+    "body": {
+      "en": "Dear {student_name},\nThank you for your e-mail.\nPlease get in touch with International Admission\n(international.admission@zv.tu-darmstadt.de) for an admission deferral. Please\nexplain why you need to defer admission in the e-mail.\nIf you have any other questions, feel free to contact us.\nBest regards,\nInternational Student Services Team",
+      "de": "Hallo {student_name},\nvielen Dank für deine E-Mail.\nKontaktiere Zulassung International (international.admission@zv.tu-darmstadt.de um\ndie Verschiebung deiner Zulassung zu beantragen. Schreibe auch eine Begründung\nin deine E-Mail.\nWenn du noch andere Fragen hast, kontaktiere uns gerne.\nMit freundlichen Grüßen\nInternational Student Services Team"
+    }
+  },
+  {
+    "id": "language_course_studienkolleg",
+    "intent": "language_course_studienkolleg",
+    "title": {
+      "en": "Language course / Studienkolleg",
+      "de": "Language course / Studienkolleg"
+    },
+    "description": {
+      "en": "Reply template: Language course / Studienkolleg.",
+      "de": "Antwortvorlage: Language course / Studienkolleg."
+    },
+    "keywords": {
+      "en": [
+        "language certificate",
+        "dsh",
+        "entrance",
+        "german",
+        "language",
+        "stk",
+        "studienkolleg",
+        "studienkolleg darmstadt",
+        "german language course",
+        "dsh preparation course",
+        "dsh exam",
+        "language preparatory course"
+      ],
+      "de": [
+        "studienkolleg",
+        "studienkolleg darmstadt",
+        "sprachkurs deutsch",
+        "dsh-vorbereitung",
+        "dsh-prüfung",
+        "studienvorbereitung",
+        "studienvorbereitungskurs",
+        "hochschulzugang"
+      ]
+    },
+    "contacts": {
+      "emails": [
+        "international.admission@zv.tu-darmstadt.de",
+        "kolleg@stk.tu-darmstadt.de"
+      ]
+    },
+    "links": [
+      "https://stk.tu-darmstadt.de"
+    ],
+    "body": {
+      "en": "Dear {student_name},\nThank you for your e-mail and you interest in the Technical University of Darmstadt.\nThe Studienkolleg Darmstadt offers prospective students of TU Darmstadt (and other\nuniversities) language courses and examinations.\nThe DSH course is a language course for preparation for the German language test\nfor entrance to higher education (DSH). Students are intensively prepared for the\nDSH over the course of two semesters or one semester. A certificate at level B1 or\nB2 is required for registration.\nIf you have any further questions about the Studienkolleg, please send an e-mail to:\nkolleg@stk.tu-darmstadt.de.\nFor the application procedure, you can contact International Admission at\ninternational.admission@zv.tu-darmstadt.de\nKind regards,\nInternational Student Services Team\nHyperlinks from above:\nStudienkolleg Darmstadt:\nhttps://www.stk.tu-darmstadt.de/dsh_stk/dsh_pruefung_stk/vorbereitung_dsh_stk/ind\nex.en.jsp\nGerman language test for entrance to higher education (DSH):\nhttps://www.stk.tu-darmstadt.de/dsh_stk/index.en.jsp",
+      "de": "Hallo {student_name},\nvielen Dank für deine E-Mail und dein Interesse an der Technischen Universität\nDarmstadt.\nDas Studienkolleg Darmstadt bietet Studienbewerber:innen Sprachkurse und\nPrüfungen an.\nDer DSH-Kurs ist ein Sprachkurs zur Vorbereitung auf die Deutsche Sprachprüfung\nfür den Hochschulzugang (DSH). Studierende werden im Laufe von zwei Semestern\noder in einem Semester intensiv auf die DSH vorbereitet. Für die Registrierung\nbrauchst du ein Zertifikat auf dem Niveau B1 bzw. B2.\nBei weiteren Fragen zum Studienkolleg sende eine E-Mail an:\nkolleg@stk.tu-darmstadt.de\nFür das Bewerbungsverfahren kannst du dich an Zulassung International wenden:\n[international.admission@zv.tu-darmstadt.de]international.admission@zv.tu-darmsta\ndt.de\nMit freundlichen Grüßen\nInternational Student Services Team\nHyperlinks von oben:\nStudienkolleg Darmstadt:\nhttps://www.stk.tu-darmstadt.de/studienkollegstart/startseite_stk.de.jsp\nDeutsche Sprachprüfung für den Hochschulzugang (DSH):\nhttps://www.stk.tu-darmstadt.de/dsh_stk/index.de.jsp"
+    }
+  },
+  {
+    "id": "enrollment_abroad_course_attendance",
+    "intent": "enrollment_abroad_course_attendance",
+    "title": {
+      "en": "Enrollment Abroad - course attendance",
+      "de": "Enrollment Abroad - course attendance"
+    },
+    "description": {
+      "en": "Reply template: Enrollment Abroad - course attendance.",
+      "de": "Antwortvorlage: Enrollment Abroad - course attendance."
+    },
+    "keywords": {
+      "en": [
+        "abroad",
+        "attendance",
+        "enrollment",
+        "enrollment from abroad",
+        "complete enrollment remotely",
+        "tu-id activation",
+        "tucan course registration",
+        "moodle course materials",
+        "departmental guidance"
+      ],
+      "de": [
+        "moodle",
+        "tucan",
+        "immatrikulation aus dem ausland",
+        "einschreibung aus dem ausland",
+        "tu-id aktivierung",
+        "tucan kurswahl",
+        "moodle kursmaterialien"
+      ]
+    },
+    "contacts": {
+      "emails": []
+    },
+    "links": [
+      "https://moodle.tu-darmstadt.de/",
+      "https://www.tu-darmstadt.de/iss"
+    ],
+    "body": {
+      "de": "Hallo {student_name},\ndanke für deine E-Mail.\nDu kannst den Immatrikulationsprozess aus dem Ausland abschließen. Folge dazu\neinfach den Anweisungen auf dem Zulassungsschreiben, das du erhalten hast.\nSobald du immatrikuliert bist, erhältst du deine TU-ID, mit der du dich in TUCaN\neinloggen und deine Kurse auswählen kannst. Außerdem erhältst du damit Zugang\nzu Moodle, wo dir deine Lernstoffmaterialien zur Verfügung stehen. Falls du Fragen\nzu den Kursinhalten hast, empfehlen wir dir, dich an deinen Fachbereich zu wenden,\num Informationen zur besten Vorbereitung auf dein Studium zu erhalten.\nFalls du Fragen zur Organisation deines Aufenthalts, zum Universitätsleben oder\nzum studentischen Alltag in Darmstadt hast, kontaktiere uns gerne. Du kannst uns\neinfach am Counter Internationales besuchen oder online mit uns Kontakt\naufnehmen. Wir stehen dir gerne zur Verfügung und bieten dir alle notwendigen\nInformationen.\nMit freundlichen Grüßen\nInternational Student Services Team\nHyperlinks from above:\nTUCaN: http://www.tucan.tu-darmstadt.de/\nMoodle: https://moodle.tu-darmstadt.de/\nISS Website: https://www.tu-darmstadt.de/iss",
+      "en": "Dear {student_name},\nThank you for your email.\nYou can complete the enrollment process from abroad by following the instructions\nprovided in your admission letter. Once you are enrolled, you will receive your TU-ID,\nwhich you can use to log into TUCaN to register for your courses. You will also gain\naccess to Moodle, where your course materials will be available. To learn more\nabout the course content, we recommend reaching out to your department for\nguidance on the best ways to prepare for your studies.\nIf you have any questions about organizing your stay, life at the university, or student\nlife in Darmstadt, please don’t hesitate to reach out to us. You can also visit us at our\nkaro 5 counter or connect with us online. We are here to support you and provide all\nthe information you need.\nKind regards,\nInternational Student Services Team\nHyperlinks von oben:\nTUCaN: http://www.tucan.tu-darmstadt.de/\nMoodle: https://moodle.tu-darmstadt.de/\nISS-Webseite: https://www.tu-darmstadt.de/iss"
+    }
+  },
+  {
+    "id": "integration_social_events_where_to_meet_new_people",
+    "intent": "integration_social_events_where_to_meet_new_people",
+    "title": {
+      "en": "Integration / social events / where to meet new people",
+      "de": "Integration / social events / where to meet new people"
+    },
+    "description": {
+      "en": "Reply template: Integration / social events / where to meet new people.",
+      "de": "Antwortvorlage: Integration / social events / where to meet new people."
+    },
+    "keywords": {
+      "en": [
+        "activities",
+        "events",
+        "groups",
+        "integration",
+        "student life",
+        "meet",
+        "people",
+        "social",
+        "tutor",
+        "tutor international events",
+        "student groups",
+        "university groups",
+        "meet new people",
+        "integration activities"
+      ],
+      "de": [
+        "aktivitäten",
+        "events",
+        "gruppen",
+        "hochschulgruppen",
+        "integration",
+        "internationale",
+        "tutor international veranstaltungen",
+        "studierendengruppen",
+        "neue leute kennenlernen"
+      ]
+    },
+    "contacts": {
+      "emails": []
+    },
+    "links": [
+      "https://moodle.tu-darmstadt.de/",
+      "https://www.tu-darmstadt.de/iss",
+      "https://www.tu-darmstadt.de/studieren/studierende_tu/internationale_studierende_1/i",
+      "https://www.tu-darmstadt.de/universitaet/organisation_verwaltung/studierendenschaf"
+    ],
+    "body": {
+      "en": "Dear {student_name},\nThank you for reaching out to us about your situation.\nTUtor International at ISS, offers many activities for international students. You can\nsee their upcoming events at https://tutor-international.de/. TUtor International and\nother university groups have fun and interesting activities, providing opportunities to\nmeet fellow students with similar interests or experiences.\nFor more information about these student groups, please visit this website.\nIf you need individual advice, you can join our consultation hours either in person\nor online via Zoom.\nIf you have any other questions, feel free to reach out to us anytime.\nKind regards,\nInternational Student Services Team\nHyperlinks from above:\nTUtor International: https://tutor-international.de/\nUniversity groups:\nhttps://www.tu-darmstadt.de/universitaet/organisation_verwaltung/studierendenschaf\nt_hochschulgruppen/index.de.jsp\nISS consultation hours:\nhttps://www.tu-darmstadt.de/studieren/studierende_tu/internationale_studierende_1/i\nndex.de.jsp#infobox_sprechstunde_zeiten",
+      "de": "Hallo {student_name},\ndanke, dass du uns wegen deiner Situation kontaktiert hast.\nTUtor International bei ISS, bietet viele Aktivitäten für internationale Studierende an.\nIhre nächsten Veranstaltungen findest du https://tutor-international.de/. Es gibt auch\nandere Hochschulgruppen, die wie TUtor International, interessante Aktivitäten\norganisieren, bei denen du dich mit anderen Studierenden treffen kannst, die\nähnliche Interessen oder Erfahrungen haben wie du.\nFür mehr Informationen über diese studentischen Gruppen, besuche diese\nWebseite.\nWenn du eine individuelle Beratung möchtest, besuche unsere\nISS-Sprechstunden in Präsenz oder digital via Zoom.\nMit freundlichen Grüßen\nInternational Student Services Team\nHyperlinks von oben:\nTUtor International: https://tutor-international.de/\nUniversitäts-Gruppen:\nhttps://www.tu-darmstadt.de/universitaet/organisation_verwaltung/studierendenschaf\nt_hochschulgruppen/index.de.jsp\nISS-Sprechstundenzeiten:\nhttps://www.tu-darmstadt.de/studieren/studierende_tu/internationale_studierende_1/i\nndex.de.jsp#infobox_sprechstunde_zeiten"
+    }
+  },
+  {
+    "id": "courses_and_module_guidance_departamental_office_for",
+    "intent": "courses_and_module_guidance_departamental_office_for",
+    "title": {
+      "en": "Courses and module guidance / departamental office for",
+      "de": "Courses and module guidance / departamental office for"
+    },
+    "description": {
+      "en": "Reply template: Courses and module guidance / departamental office for.",
+      "de": "Antwortvorlage: Courses and module guidance / departamental office for."
+    },
+    "keywords": {
+      "en": [
+        "affairs",
+        "catalogue",
+        "departamental",
+        "department",
+        "examination",
+        "examinations",
+        "grades",
+        "guidance",
+        "module",
+        "study",
+        "office for student affairs",
+        "study guidance",
+        "course catalogue",
+        "module selection",
+        "examination regulations"
+      ],
+      "de": [
+        "departamental",
+        "fachbereich",
+        "lehrveranstaltungen",
+        "module",
+        "studienbüro",
+        "vorlesungsverzeichnis",
+        "modulwahl",
+        "prüfungsordnung",
+        "noten"
+      ]
+    },
+    "contacts": {
+      "emails": []
+    },
+    "links": [
+      "https://www.tu-darmstadt.de/studieren/studierende_tu/studienorganisation_und_tucan/konta"
+    ],
+    "body": {
+      "en": "Dear {student_name},\nThank you for your e-mail.\nPlease contact your Office for Student Affairs (Studienbüro) in your department for\nquestions concerning:\n● course catalogue\n● modules and courses\n● examinations, grades\n● examination regulations\n● performance and transcript of records\nIf you have further questions, please do not hesitate to contact us.\nBest regards,\nInternational Student Services Team\nHyperlinks from above:\nStudent Affairs Office:\nhttps://www.tu-darmstadt.de/studieren/studierende_tu/studienorganisation_und_tucan/konta\nkt_4/Studienbueros.en.jsp",
+      "de": "Hallo {student_name},\nDanke für deine E-Mail.\nWende dich bitte an dein Studienbüro in deinem Fachbereich, wenn du Fragen zu folgenden\nThemen hast:\n● Vorlesungsverzeichnis\n● Module und Lehrveranstaltungen\n● Prüfungen, Noten\n● Prüfungsordnungen\n● Leistungsspiegel\nFalls du weitere Fragen hast, melde dich bei uns.\nMit freundlichen Grüßen\nInternational Student Services Team\nHyperlinks von oben:\nStudienbüro:\nhttps://www.tu-darmstadt.de/studieren/studierende_tu/studienorganisation_und_tucan/konta\nkt_4/Studienbueros.de.jsp"
+    }
+  },
+  {
+    "id": "campus_tour_university_visit",
+    "intent": "campus_tour_university_visit",
+    "title": {
+      "en": "Campus Tour / University visit",
+      "de": "Campus Tour / University visit"
+    },
+    "description": {
+      "en": "Reply template: Campus Tour / University visit.",
+      "de": "Antwortvorlage: Campus Tour / University visit."
+    },
+    "keywords": {
+      "en": [
+        "campus",
+        "city",
+        "support",
+        "tour",
+        "university",
+        "visit",
+        "campus tour request",
+        "university visit",
+        "no guided campus tours",
+        "visit darmstadt"
+      ],
+      "de": [
+        "campus",
+        "fuehrung",
+        "führung",
+        "besuch",
+        "besuchen",
+        "campusführung anfrage",
+        "universitätsbesuch",
+        "keine campusführungen",
+        "darmstadt besuchen"
+      ]
+    },
+    "contacts": {
+      "emails": []
+    },
+    "links": [
+      "https://studierendenwerkdarmstadt.de/en/counseling-and-social-affairs/",
+      "https://studierendenwerkdarmstadt.de/en/counseling-and-social-affairs/psychotherapeutic-counselling-center/●",
+      "https://www.tu-darmstadt.de/bettertugether/projekte_bettertugether/expert_innen_intervi",
+      "https://www.tu-darmstadt.de/bettertugether/projekte_bettertugether/expert_innen_interviews/dein_plan_fuer_alle_faelle/index.en.jsp●",
+      "https://www.tu-darmstadt.de/studentsoftudarmstadt/home/unterstuetzung/mental_health",
+      "https://www.tu-darmstadt.de/studentsoftudarmstadt/home/unterstuetzung/mental_health_2.en.jsp●"
+    ],
+    "body": {
+      "en": "Dear {student_name},\nThank you very much for your email and for your interest in studying at TU Darmstadt.\nHowever, we would like to inform you that our office does not organize campus tours or\nindividual meetings with faculty members. We recommend exploring our website, where you\ncan find extensive information about the program structure, admission requirements, and\ncampus life.\nOf course, you are very welcome to visit the city of Darmstadt and take a walk around the\nuniversity on your own. The main campus (Campus Stadtmitte) is located in the city center\nand is accessible to the public.\nWe wish you a pleasant trip to Germany and all the best for your future academic plans.\nKind regards,\nInternational Student Services Team"
+    }
+  },
+  {
+    "id": "mental_health",
+    "intent": "mental_health",
+    "title": {
+      "en": "Mental Health",
+      "de": "Mental Health"
+    },
+    "description": {
+      "en": "Reply template: Mental Health.",
+      "de": "Antwortvorlage: Mental Health."
+    },
+    "keywords": {
+      "en": [
+        "aid",
+        "counselling",
+        "health",
+        "mental",
+        "support",
+        "mental health support",
+        "psychological counselling",
+        "studierendenwerk counselling",
+        "wellbeing and health",
+        "mental health first aid",
+        "skills portal workshops"
+      ],
+      "de": [
+        "unterstützung",
+        "gesund",
+        "gesundheit",
+        "hda",
+        "health",
+        "mental",
+        "mentale gesundheit",
+        "psychologische beratung",
+        "studierendenwerk beratungsstelle",
+        "wohlbefinden und gesundheit"
+      ]
+    },
+    "contacts": {
+      "emails": []
+    },
+    "links": [
+      "https://studierendenwerkdarmstadt.de/en/counseling-and-social-affairs/",
+      "https://studierendenwerkdarmstadt.de/en/counseling-and-social-affairs/psychotherapeutic-counselling-center/●",
+      "https://www.tu-darmstadt.de/bettertugether/projekte_bettertugether/expert_innen_intervi",
+      "https://www.tu-darmstadt.de/bettertugether/projekte_bettertugether/expert_innen_interviews/dein_plan_fuer_alle_faelle/index.en.jsp●",
+      "https://www.tu-darmstadt.de/studentsoftudarmstadt/home/unterstuetzung/mental_health",
+      "https://www.tu-darmstadt.de/studentsoftudarmstadt/home/unterstuetzung/mental_health_2.de.jsp●",
+      "https://www.tu-darmstadt.de/studentsoftudarmstadt/home/unterstuetzung/mental_health_2.en.jsp●"
+    ],
+    "body": {
+      "en": "Dear {student_name},\nThank you for your E-mail and sharing this with us.\nI understand that a lot of change at once can be really challenging.\nAt the university there are various options for counselling and support:\n● Wellbeing & health for Students (HDA):\nhttps://www.hda.tu-darmstadt.de/impulse_hda/wohlbefinden_hda/fuer_studierende_wohl\nbefinden/index.en.jsp\n● Better Tugether (scroll down for the English version):\nhttps://www.tu-darmstadt.de/bettertugether/projekte_bettertugether/expert_innen_intervi\news/dein_plan_fuer_alle_faelle/index.en.jsp\n● Psycological Counselling\nStudierendenwerk:https://studierendenwerkdarmstadt.de/en/counseling-and-social-affairs/\npsychotherapeutic-counselling-center/\n● Mental Health First Aid (MHFA) form students for students:\nhttps://www.tu-darmstadt.de/studentsoftudarmstadt/home/unterstuetzung/mental_health\n_2.en.jsp\n● Skills Portal for workshops:\nhttps://tu4you.tu-darmstadt.de/en/courses/Skills%20Portal/offers/gesund-studieren-kompa\nktkurs-3#d84f3a8b-9925-481d-9605-ef346e014bbe\n● Your General Practitioner can also support you to find other options\n● TUtor International for connecting with other international students:\nhttps://tutor-international.de/\nI hope this information helps you to find the support you need.\nRemember you can send us an E-Mail with any other questions you might have. We are here to\nsupport you.\nI wish you all the best.\nKind regards,\nInternational Student Services Team",
+      "de": "Hallo {student_name},\nvielen Dank für deine Anfrage.\nViele Veränderungen auf einmal, können eine große Herausforderung sein.\nAn der Universität gibt es verschiedene Möglichkeiten zur Beratung und Unterstützung:\n● Wohnbefinden und Gesundheit für Studierende (HDA):\nhttps://www.hda.tu-darmstadt.de/impulse_hda/wohlbefinden_hda/fuer_studierende_wohl\nbefinden/index.en.jsp\n● Better Tugether:\nhttps://www.tu-darmstadt.de/bettertugether/projekte_bettertugether/expert_innen_intervi\news/dein_plan_fuer_alle_faelle/index.en.jsp\n● Psychotherapeutische Beratungsstelle (PBS) Studierendenwerk:\nhttps://studierendenwerkdarmstadt.de/en/counseling-and-social-affairs/psychotherapeutic-\ncounselling-center/\n● Mentale Gesundheit - erste Hilfe von Studierende für Studierende:\nhttps://www.tu-darmstadt.de/studentsoftudarmstadt/home/unterstuetzung/mental_health\n_2.de.jsp\n● Gesund studieren: Kompaktkurs:\nhttps://tu4you.tu-darmstadt.de/de/courses/Skills%20Portal/offers/gesund-studieren-kompa\nktkurs-3#d84f3a8b-9925-481d-9605-ef346e014bbe\n● ein Hausarzt kann weitere Kontakte und Anlaufstellen vermitteln\n● TUtor International stellt den Kontakt zu anderen Studierenden her:\nhttps://tutor-international.de/\nIch hoffe diese Informationen helfen dir.\nAlles Gute weiterhin.\nSende uns gerne eine E-Mail falls du weiter Fragen hast.\nMit freundlichen Grüßen\nInternational Student Services Team"
+    }
+  },
+  {
+    "id": "enrollment_and_admission_questions",
+    "intent": "enrollment_and_admission_questions",
+    "title": {
+      "en": "Enrollment and admission Questions",
+      "de": "Enrollment and admission Questions"
+    },
+    "description": {
+      "en": "Reply template: Enrollment and admission Questions.",
+      "de": "Antwortvorlage: Enrollment and admission Questions."
+    },
+    "keywords": {
+      "en": [
+        "admission",
+        "consultation",
+        "enrollment",
+        "prospective students",
+        "international admission team",
+        "application questions",
+        "enrollment questions",
+        "international admission"
+      ],
+      "de": [
+        "bewerber",
+        "bewerbung",
+        "einschreibung",
+        "studieninteressierte",
+        "zulassung",
+        "zulassung international",
+        "bewerbung fragen",
+        "einschreibung fragen",
+        "internationale bewerber"
+      ]
+    },
+    "contacts": {
+      "emails": [
+        "international.admission@zv.tu-darmstadt.de"
+      ]
+    },
+    "links": [
+      "https://www.tu-darmstadt.de/international-admission",
+      "https://www.tu-darmstadt.de/studieren/studieninteressierte/internationale_studieninteressierte/bewerbung_und_zulassu",
+      "https://www.tu-darmstadt.de/studieren/studieninteressierte/internationale_studieninteressierte/bewerbung_und_zulassung_international/digitale_sprechstunde_intl.de.jsp"
+    ],
+    "body": {
+      "en": "Dear {student_name} ,\nThank you for your e-mail.\nFor questions about your application and enrollment, please contact the International\nAdmission Team. They handle everything related to this process.\nYou can reach them by e-mail: international.admission@zv.tu-darmstadt.de or during their\ndigital consultation hours.\nIf you have any other questions, feel free to contact us anytime.\nKind regards,\nInternational Student Services Team\nHyperlinks from above:\nInternational Admission TU Darmstadt: https://www.tu-darmstadt.de/international-admission\nDigital Consultation Hours- International Admission:\nhttps://www.tu-darmstadt.de/studieren/studieninteressierte/internationale_studieninteressierte/bewerbung_und_zulassu\nng_international/digitale_sprechstunde_intl.en.jsp",
+      "de": "Hallo {student_name},\nDanke für deine E-Mail.\nBei Fragen zu deiner Bewerbung und Einschreibung wende dich bitte an das Zulassung\nInternational Team. Sie sind für diese Prozesse zuständig.\nDu kannst sie per E-Mail erreichen: international.admission@zv.tu-darmstadt.de oder\nwährend ihrer digitalen Sprechstunden: Digitale Sprechstunde für internationale Bewerber:\ninnen.\nWenn du weitere Fragen hast, kontaktiere uns gerne jederzeit.\nMit freundlichen Grüßen\nInternational Student Services Team\nHyperlinks von oben:\nZulassung International: https://www.tu-darmstadt.de/international-admission\nDigitale Sprechstunde für internationale Bewerber: innen:\nhttps://www.tu-darmstadt.de/studieren/studieninteressierte/internationale_studieninteressierte/bewerbung_und_zulassu\nng_international/digitale_sprechstunde_intl.de.jsp"
+    }
+  },
+  {
+    "id": "health_insurance_questions",
+    "intent": "health_insurance_questions",
+    "title": {
+      "en": "Health Insurance questions",
+      "de": "Health Insurance questions"
+    },
+    "description": {
+      "en": "Reply template: Health Insurance questions.",
+      "de": "Antwortvorlage: Health Insurance questions."
+    },
+    "keywords": {
+      "en": [
+        "admission",
+        "contribution",
+        "fee",
+        "arrival",
+        "health",
+        "insurance",
+        "letter",
+        "statutory health insurance",
+        "health insurance enrollment requirement",
+        "techniker krankenkasse",
+        "tk campus consultant",
+        "digital tk appointment",
+        "health insurance fee",
+        "health insurance contribution"
+      ],
+      "de": [
+        "krankenversicherung",
+        "gesetzliche krankenversicherung",
+        "einschreibung voraussetzung",
+        "techniker krankenkasse",
+        "tk beratungstermin"
+      ]
+    },
+    "contacts": {
+      "emails": [
+        "international.admission@zv.tu-darmstadt.de",
+        "students.darmstadt@tk.de"
+      ]
+    },
+    "links": [
+      "https://online-terminvergabe-techniker.de/Portal/Event/DR903J",
+      "https://online-terminvergabe-techniker.de/Portal/Event/LandingPage",
+      "https://www.tu-darmstadt.de/health-insurance"
+    ],
+    "body": {
+      "en": "Dear {student_name},\nThank you for your e-mail.\nInternational students must have health insurance to enrol at TU Darmstadt. Please follow\nthe instructions in your admission letter. Our website has more information on the topic of\n“Health Insurance for International Students”: www.tu-darmstadt.de/health-insurance\nFor individual advice, please contact our health insurance campus consultant at\nstudents.darmstadt@tk.de. Include the following details in your e-mail:\n● Your full first and family name\n● A copy of your passport\n● A copy of your Admission Letter\n● Your expected arrival date\nYou can also schedule a digital consultation to answer any health insurance questions. For\nany other questions regarding your enrolment, please reach out to the International\nAdmission Team at international.admission@zv.tu-darmstadt.de\nPlease contact us if you have any further questions about organising your stay.\nKind regards,\nInternational Student Services Team\nHyperlinks from above:\nHealth insurance information: www.tu-darmstadt.de/health-insurance\nDigital TK consultation hour:\nhttps://online-terminvergabe-techniker.de/Portal/Event/DR903J",
+      "de": "Hallo {student_name},\nvielen Dank für deine Anfrage.\nInternationale Studierende müssen eine gültige Krankenversicherung haben, um sich an der\nTU Darmstadt einzuschreiben. Weitere Informationen findest du auf unserer Website.\nFür eine individuelle Beratung kontaktiere bitte unsere\nCampus-Krankenversicherungsberater:innen (students.darmstadt@tk.de). Bitte schicke\nfolgende Informationen in deiner E-Mail an sie:\n● Deinen vollständigen Vor- und Nachnamen\n● Kopie deines Reisepasses\n● Kopie deines Zulassungsschreibens\n● Dein geplanter Einreisetermin nach Deutschland\nDu kannst auch einen digitalen Beratungstermin für alle Fragen zur Krankenversicherung\nvereinbaren. Für alle weiteren Fragen zur Immatrikulation wende dich bitte an das Team\nZulassung International: international.admission@zv.tu-darmstadt.de.\nWenn du noch andere Fragen zur Aufenthaltsorganisation hast, melde dich gerne bei uns.\nMit freundlichen Grüßen\nInternational Student Services Team\nHyperlinks von oben:\nInformationen zur Krankenversicherung: https://www.tu-darmstadt.de/health-insurance\nVirtuelle TK-Terminvereinbarung:\nhttps://online-terminvergabe-techniker.de/Portal/Event/LandingPage"
+    }
+  },
+  {
+    "id": "enrollment_process",
+    "intent": "enrollment_process",
+    "title": {
+      "en": "Enrollment process",
+      "de": "Enrollment process"
+    },
+    "description": {
+      "en": "Reply template: Enrollment process.",
+      "de": "Antwortvorlage: Enrollment process."
+    },
+    "keywords": {
+      "en": [
+        "admission",
+        "arrival",
+        "consultation",
+        "enrollment",
+        "health",
+        "insurance",
+        "semester fee payment",
+        "enrollment requirements",
+        "electronic insurance notification",
+        "insurance status notification",
+        "tu-id activation code",
+        "tuda app student id"
+      ],
+      "de": [
+        "ankunft",
+        "versicherungsstatus",
+        "semesterbeitrag zahlen",
+        "elektronisches meldeverfahren",
+        "versicherungsstatus meldung",
+        "tu-id aktivierungscode",
+        "tuda app studierendenausweis",
+        "kick-off days"
+      ]
+    },
+    "contacts": {
+      "emails": [
+        "international.admission@zv.tu-darmstadt.de",
+        "students.darmstadt@tk.de"
+      ]
+    },
+    "links": [
+      "https://online-terminvergabe-techniker.de/Portal/Event/DR903J",
+      "https://online-terminvergabe-techniker.de/Portal/Event/DR903JStudienstart",
+      "https://www.tu-darmstadt.de/gettingstarted",
+      "https://www.tu-darmstadt.de/studieren/studieren_von_a_bis_z/artikel_details_de_en_286144",
+      "https://www.tu-darmstadt.de/studieren/studierende_tu/tuda_app/index.de.jsp",
+      "https://www.tu-darmstadt.de/studieren/studierende_tu/tuda_app/index.en.jsp",
+      "https://www.tu-darmstadt.de/your-stay",
+      "https://www.tu-darmstadt.de/kickoff"
+    ],
+    "body": {
+      "en": "Dear {student_name},\nThank you for your e-mail. To complete your enrollment at the Technical University of\nDarmstadt, you need to do two steps:\n1. Pay the semester fee: You can find the bank details in your acceptance letter.\n2. Have your statutory health insurance provider in Germany send an electronic notification\nabout your insurance status to TU Darmstadt.\nIf you need help with the statutory German Health Insurance, you can contact our TK\ncampus health insurance consultant at students.darmstadt@tk.de. You can also book a\ndigital consultation appointment with her. Book an appointment for individual consultation. In\nyour email, please include:\n● Your last and first name\n● A copy of your passport\n● A copy of your Admission Letter\n● Your planned entry date to Germany\n● You can complete this entire process from abroad.\nOnce you have done these steps, you will be enrolled and will receive your TU ID and\nactivation code by e-mail. With the TU ID, you can take advantage of many different offers\nand services at TU Darmstadt. With your TU ID, you can log in to the TUDa app and access\nyour digital student ID card. Once you have paid your semester fees on time, you will be\nenrolled or re-registered and your student ID and Deutschland Semester Ticket will be\navailable in the app.\nIf you have any problems or questions about enrolment, please contact the International\nAdmission Team at international.admission@zv.tu-darmstadt.de\nIf you already have accommodation in Germany and need to change your address, you can\ndo so yourself in TUCaN after enrolling.\nCheck out our useful resources:\n● Check out what things are important when starting you studies at TU Darmstadt: Getting\nstarted at TU Darmstadt,\n● Work through our Before Arrival and after Arrival Checklist to learn what things you should\ntake care of as an international student on our website: Your Stay\n● Join us for the orientation events: Kick-Off Days\nBest regards,\nInternational Student Services Team\nHyperlinks from above:\nSemester Fee:\nhttps://www.tu-darmstadt.de/studieren/studieren_von_a_bis_z/artikel_details_de_en_286144\n.en.jsp\nTU-ID and its services:\nhttps://www.hrz.tu-darmstadt.de/services/it_services/tu_id/index.en.jsp\nTUDa App: https://www.tu-darmstadt.de/studieren/studierende_tu/tuda_app/index.en.jsp\nTK Health Insurance Digital Consultation Hours :\nhttps://online-terminvergabe-techniker.de/Portal/Event/DR903J\nYour Stay: https://www.tu-darmstadt.de/your-stay\nGetting Started at TU Darmstadt: https://www.tu-darmstadt.de/gettingstarted\nKick-Off Days: www.tu-darmstadt.de/kickoff",
+      "de": "Hallo {student_name},\nvielen Dank für deine E-Mail. Du musst zwei Schritte tun, um dich an der Technischen\nUniversität Darmstadt einzuschreiben (Immatrikulation):\n1. Den Semesterbeitrag zahlen. Du findest die Bankinformationen in deinem\nZulassungsschreiben.\n2. Die Meldung des Versicherungsstatus von Studierenden erfolgt ausschließlich digital über das\nelektronische Meldeverfahren. Dabei müssen die gesetzlichen Krankenversicherungen den\nVersicherungsstatus von Zugelassenen bzw. Studierenden an die TU Darmstadt übermitteln,\nauch im Fall einer Privatversicherung. Kontaktiere bitte eine gesetzliche Krankenversicherung\ndeiner Wahl in Deutschland, um die elektronische Meldung über deinen\nVersicherungsstatus an die TU Darmstadt zu senden.\nFalls du Hilfe bezüglich der gesetzlichen deutschen Krankenversicherung benötigst, kannst\ndu unsere TK-Krankenversicherungsberaterin kontaktieren unter students.darmstadt@tk.de.\nDu kannst auch einen Termin für eine digitale Sprechstunde vereinbaren. Mache in deiner\nE-Mail bitte folgende Angaben:\n● Dein Nachname und Vorname\n● Kopie deines Reisepasses\n● Kopie deines Zulassungsschreibens\n● Deine geplante Einreise nach Deutschland\nDu kannst diesen Prozess auch aus dem Ausland abschließen. Sobald du diese Schritte\ngemacht hast, wirst du eingeschrieben (immatrikuliert) und erhältst deine TU-ID mit\nAktivierungscode per E-Mail. Mit der TU-ID kannst du viele verschiedene Angebote an der\nTU Darmstadt nutzen. Mit deiner TU-ID kannst du dich in der TUDa-App anmelden und\ndeine digitale Studierendenkarte abrufen. Sobald du die Semestergebühren rechtzeitig\nbezahlt hast, wirst du eingeschrieben oder rückgemeldet und deine Studierendenkarte und\nDeutschlansdemesterticket werden in der App zur Verfügung stehen.\nWenn du Probleme oder Fragen zur Einschreibung hast, wende dich bitte an das Team\nZulassung International: international.admission@zv.tu-darmstadt.de.\nNach deiner Immatrikulation kannst du deine hinterlegte Adresse bei TUCaN jederzeit selbst\nändern.\nSchaue dir unsere hilfreichen Ressourcen an:\n● Lerne alles, was wichtig ist für deinen Studienbeginn an der TU Darmstadt Studienstart\n● Befolge die Schritte unserer Checklisten „Vor der Ankunft“ und „Nach der Ankunft“ für\ninternationale Studierende auf unserer Webseite Ihr Aufenthalt\n● Nehmt an unserem Orientierungsprogramm teil: Kick-Off Days\nMit freundlichen Grüßen\nInternational Student Services Team\nHyperlinks von oben:\nSemesterbeitrag:\nhttps://www.tu-darmstadt.de/studieren/studieren_von_a_bis_z/artikel_details_de_en_286144\n.de.jsp\nTU-ID: https://www.hrz.tu-darmstadt.de/services/it_services/tu_id/index.de.jsp\nTUDa App: https://www.tu-darmstadt.de/studieren/studierende_tu/tuda_app/index.de.jsp\nTK Digitale Sprechstunde: https://online-terminvergabe-techniker.de/Portal/Event/DR903J\nStudienstart: https://www.tu-darmstadt.de/gettingstarted\nIhr Aufenthalt: https://www.tu-darmstadt.de/your-stay\nKick-Off Days: www.tu-darmstadt.de/kickoff"
+    }
+  },
+  {
+    "id": "job_search",
+    "intent": "job_search",
+    "title": {
+      "en": "Job search",
+      "de": "Job search"
+    },
+    "description": {
+      "en": "Reply template: Job search.",
+      "de": "Antwortvorlage: Job search."
+    },
+    "keywords": {
+      "en": [
+        "job",
+        "search",
+        "stellenwerk",
+        "tuda",
+        "working",
+        "job search",
+        "student jobs",
+        "stellenwerk portal",
+        "tuda app career",
+        "international career service rhein-main",
+        "workshops working in germany",
+        "job applications documents"
+      ],
+      "de": [
+        "arbeiten",
+        "berufserfahrung",
+        "job",
+        "stellenwerk",
+        "tuda",
+        "jobsuche",
+        "studentische jobs",
+        "stellenwerk portal",
+        "arbeiten in deutschland"
+      ]
+    },
+    "contacts": {
+      "emails": []
+    },
+    "links": [
+      "https://ics-rm.de/",
+      "https://ics-rm.de/en/",
+      "https://www.stellenwerk.de/darmstadt",
+      "https://www.stellenwerk.de/darmstadtTUDa",
+      "https://www.tu-darmstadt.de/studieren/studierende_tu/tuda_app/index.de.jsp",
+      "https://www.tu-darmstadt.de/studieren/studierende_tu/tuda_app/index.en.jsp"
+    ],
+    "body": {
+      "en": "Dear {student_name},\nThank you for your E-Mail.\nWe understand that having a job is important to finance your studies and gain working experience in\nGermany. You can visit the Stellenwerk Portal where jobs at the university and at different companies\nare advertised. You can also access another job portal in the TUDa App, under the Career button. The\nInternational Career Service Rhein-Main provides information and workshops regarding working in\nGermany\nRead the job advertisements carefully and send all the required documents.\nIf you have any other questions, feel free to contact us anytime.\nKind regards,\nInternational Student Services Team\nHyperlinks from above:\nStellenwerk Portal: https://www.stellenwerk.de/darmstadt\nTUDa App: https://www.tu-darmstadt.de/studieren/studierende_tu/tuda_app/index.en.jsp\nInternational Career Service Rhein-Main: https://ics-rm.de/en/",
+      "de": "Guten Tag {student_name},\nDanke für deine E-Mail.\nWir verstehen, dass es wichtig ist, einen Job zu haben, um dein Studium zu finanzieren und\nBerufserfahrung in Deutschland zu sammeln. Du kannst das Stellenwerk-Portal besuchen, auf dem\nStellen an der Universität und bei verschiedenen Unternehmen ausgeschrieben sind. Du kannst auch\nauf ein weiteres Jobportal in der TUDa-App zugreifen, dass du unter dem Button Karriere findest. Der\nInternational Career Service Rhein-Main bietet Informationen und Workshops zum Thema Arbeiten\nin Deutschland an.\nLies die Stellenanzeigen sorgfältig durch und sende alle erforderlichen Unterlagen ein.\nFür weitere Fragen kannst du uns jederzeit kontaktieren.\nMit freundlichen Grüßen\nInternational Student Services Team\nHyperlinks from above:\nStellenwerk-Portal: https://www.stellenwerk.de/darmstadt\nTUDa App: https://www.tu-darmstadt.de/studieren/studierende_tu/tuda_app/index.de.jsp\nInternational Career Service Rhein-Main: https://ics-rm.de/"
+    }
+  },
+  {
+    "id": "exmatriculation",
+    "intent": "exmatriculation",
+    "title": {
+      "en": "Exmatriculation",
+      "de": "Exmatriculation"
+    },
+    "description": {
+      "en": "Reply template: Exmatriculation.",
+      "de": "Antwortvorlage: Exmatriculation."
+    },
+    "keywords": {
+      "en": [
+        "exmatriculation",
+        "cancel enrollment",
+        "de-registration",
+        "withdraw from university"
+      ],
+      "de": [
+        "exmatriculation",
+        "exmatrikulation",
+        "exmatrikulieren",
+        "informationen",
+        "immatrikulation beenden",
+        "abmeldung"
+      ]
+    },
+    "contacts": {
+      "emails": [
+        "studierendenservice@tu-darmstadt.de"
+      ]
+    },
+    "links": [
+      "https://www.tu-darmstadt.de/studieren/studieren_von_a_bis_z/artikel_details_de_en_41920.d",
+      "https://www.tu-darmstadt.de/studieren/studieren_von_a_bis_z/artikel_details_de_en_41920.de.jsp",
+      "https://www.tu-darmstadt.de/studieren/studieren_von_a_bis_z/artikel_details_de_en_41920.e",
+      "https://www.tu-darmstadt.de"
+    ],
+    "body": {
+      "en": "Dear {student_name},\nThank you for your e-mail.\nIf you want to cancel your enrolment (exmatriculation) please read the information on this\nwebsite.\nFor further questions regarding this topic please contact:\nstudierendenservice@tu-darmstadt.de\nBest regards,\nInternational Student Services Team\nHyperlinks from above:\nDe-Registration:\nhttps://www.tu-darmstadt.de/studieren/studieren_von_a_bis_z/artikel_details_de_en_41920.e\nn.jsp",
+      "de": "Guten Tag {student_name},\nVielen Dank für deine E-Mail. Wenn du dich exmatrikulieren möchtest, lies die\nInformationen auf dieser Webseite.\nFür weitere Fragen zur Exmatrikulation wende dich an: studierendenservice@tu-darmstadt.de\nMit freundlichen Grüßen\nInternational Student Services Team\nHyperlinks von oben:\nExmatrikulation:\nhttps://www.tu-darmstadt.de/studieren/studieren_von_a_bis_z/artikel_details_de_en_41920.d\ne.jsp"
+    }
+  },
+  {
+    "id": "accommodation_search",
+    "intent": "accommodation_search",
+    "title": {
+      "en": "accommodation_search",
+      "de": "accommodation_search"
+    },
+    "description": {
+      "en": "Guidance on finding accommodation in Darmstadt (Housing Assistance, Studierendenwerk dormitories, and other housing options).",
+      "de": "Hinweise zur Wohnraumsuche in Darmstadt (Wohnraumservice/Housing Assistance, Studierendenwerk-Wohnheime und weitere Optionen)."
+    },
+    "keywords": {
+      "en": [
+        "accommodation",
+        "dormitories",
+        "dormitory",
+        "find",
+        "finding",
+        "housing",
+        "housing-assistance",
+        "live",
+        "accommodation search",
+        "housing market germany",
+        "housing assistance tu darmstadt"
+      ],
+      "de": [
+        "wohnungssuche",
+        "wohnraumsuche",
+        "wohnheim",
+        "studentische wohnheime",
+        "unterkunft",
+        "dringend",
+        "dringende unterkunft",
+        "hilfe",
+        "wohnraumservice tu darmstadt",
+        "housing assistance",
+        "studierendenwerk wohnheime",
+        "warteliste wohnheim",
+        "wohngemeinschaft wg",
+        "kommerzielle wohnheime",
+        "unterstützung bei wohnungssuche"
+      ]
+    },
+    "contacts": {
+      "emails": [
+        "international.admission@zv.tu-darmstadt.de",
+        "wohnraumservice@zv.tu-darmstadt.de"
+      ]
+    },
+    "links": [
+      "https://www.housing-international.tu-darmstadt.de/formular.php?l=en",
+      "https://www.housing-international.tu-darmstadt.de/formular.php?l=de",
+      "https://www.tu-darmstadt.de/housing-assistance",
+      "https://studierendenwerkdarmstadt.de/en/accomodation-service/",
+      "https://studierendenwerkdarmstadt.de/en/accomodation-service/tipps-wohnungssuche/",
+      "https://studierendenwerkdarmstadt.de/wohnservice/",
+      "https://studierendenwerkdarmstadt.de/wohnservice/tipps-wohnungssuche/"
+    ],
+    "body": {
+      "en": "Dear {student_name},\n\nThank you for your e-mail.\n\nFinding accommodation in Germany can be challenging because the housing market is very competitive. We understand that the search for accommodation can be stressful and time-consuming! We suggest registering for assistance with the TU Darmstadt Housing International office by completing their form.\n\nFor more information about finding a place to live in Darmstadt, please visit the Housing Assistance for Degree-Seeking students website and if you need further help in looking for a suitable accommodation, please contact them at wohnraumservice@zv.tu-darmstadt.de.\n\nTU Darmstadt does not own any student dormitories. The non-profit dormitories in Darmstadt are managed by Studierendenwerk Darmstadt. They have an accommodation service that can answer all your questions about dormitories. You can apply for a room through their website.\n\nPlease apply to the dormitories, but don’t have them as your only choice. Get on the waiting list, but plan to find a place on your own, as the number of applicants far exceeds the number of rooms available. We recommend also checking other dormitory providers in Darmstadt. Information about these providers is available on the Studierendenwerk’s website. It is advisable to look for housing options not only in Darmstadt but also in nearby towns and cities.\n\nThere are many commercial dormitory providers in Darmstadt. The easiest way to find out what is currently available is through an internet search or contacting the TU Darmstadt Housing Assistance. Many students also decide to live in private shared accommodation (known as WG), which is a common option in Germany.\n\nWe wish you every success in your accommodation search!\n\nBest regards,\nInternational Student Services Team",
+      "de": "Hallo {student_name},\n\nvielen Dank für deine E-Mail.\n\nLeider kann sich die Wohnraumsuche wegen des hart umkämpften Wohnungsmarktes in Deutschland schwierig gestalten. Deshalb empfehlen wir dir, dich beim Wohnraumservice der TU Darmstadt zu registrieren und ihr Formular auszufüllen. Für mehr Informationen über die Wohnraumsuche in Darmstadt besuche bitte die Website „Housing Assistance for Degree-Seeking Students“. Wenn du weitere Hilfe bei der Suche nach einer passenden Unterkunft brauchst, schreibe an wohnraumservice@zv.tu-darmstadt.de.\n\nDie TU Darmstadt besitzt keine eigenen Studentenwohnheime. Die gemeinnützigen Wohnheime in Darmstadt werden vom Studierendenwerk Darmstadt verwaltet. Das Studierendenwerk Darmstadt hat einen Wohnraumservice, der deine Fragen zu den Wohnheimen beantworten kann. Du kannst dich über deren Webseite für ein Zimmer bewerben.\n\nBitte bewirb dich um ein Wohnheimzimmer, aber prüfe andere Optionen. Lass dich auf die Warteliste setzen, aber suche auch eigenständig nach einer Unterkunft, da es mehr Bewerber:innen als Zimmer gibt. Wir empfehlen dir, auch andere Wohnheimanbieter in Darmstadt zu prüfen. Informationen dazu findest du auf der Website des Studierendenwerks. Wir empfehlen unseren Studierenden daher, sich auch außerhalb von Darmstadt in den umliegenden Städten nach einer Unterkunft umzusehen.\n\nIn Darmstadt gibt es viele kommerzielle Wohnheimanbieter. Am einfachsten findest du aktuelle Angebote über eine Internetsuche oder indem du den Wohnraumservice der TU Darmstadt kontaktierst. Viele Studierende entscheiden sich auch für private Wohngemeinschaften (WG), was in Deutschland sehr verbreitet ist.\n\nWir wünschen dir viel Erfolg bei der Wohnungssuche!\n\nMit freundlichen Grüßen\nInternational Student Services Team"
+    }
+  },
+  {
+    "id": "educational_institution_confirmation_foreigners_office",
+    "intent": "educational_institution_confirmation_foreigners_office",
+    "title": {
+      "en": "Bestätigung der Bildungseinrichtung / educational institution",
+      "de": "Bestätigung der Bildungseinrichtung / educational institution"
+    },
+    "description": {
+      "en": "Reply template: Bestätigung der Bildungseinrichtung / educational institution.",
+      "de": "Antwortvorlage: Bestätigung der Bildungseinrichtung / educational institution."
+    },
+    "keywords": {
+      "en": [
+        "bestätigung",
+        "bildungseinrichtung",
+        "confirmation",
+        "document",
+        "educational",
+        "foreigners",
+        "office",
+        "educational institution confirmation",
+        "foreigners office",
+        "ausländerbehörde",
+        "certificate for foreigners office"
+      ],
+      "de": [
+        "ausländerbehörde",
+        "ausländeramt",
+        "bestätigung",
+        "bildungseinrichtung",
+        "bestätigung der bildungseinrichtung",
+        "unterlage für ausländerbehörde"
+      ]
+    },
+    "contacts": {
+      "emails": [
+        "international.admission@zv.tu-darmstadt.de"
+      ]
+    },
+    "links": [
+      "https://www.tu-darmstadt.de/international-admission",
+      "https://www.tu-darmstadt.de/studieren/studierende_tu/studienorganisation_und_tucan/hilfe_und_"
+    ],
+    "body": {
+      "en": "Dear {student_name},\nThank you for your e-mail.\nIf you need the educational institution confirmation (Bestätigung der Bildungseinrichtung) document\nfilled out for the Foreigners Office, please contact the International Admission team at\ninternational.admission@zv.tu-darmstadt.de.\nIn order to assist you, please send them the following information via e-mail:\n● your current transcript of records (you can download this from TUCaN.)\n● your matriculation number\n● full name\n● date of birth\nPlease note that it might take 4 weeks or more to process your request. Once processed, the\ncertificate will be sent to you as a PDF via e-mail. It is valid without a stamp or signature.\nIf you have any more questions, do not hesitate to reach out.\nKind regards,\nInternational Student Services Team\nHyperlinks from above:\nHow to receive the transcript of records:\nhttps://www.tu-darmstadt.de/studieren/studierende_tu/studienorganisation_und_tucan/hilfe_und_\nfaq/artikel_details_de_en_12288.en.jsp\nInternational Admission: https://www.tu-darmstadt.de/international-admission",
+      "de": "Hallo {student_name},\nvielen Dank für deine E-Mail.\nFür die Ausstellung einer Bestätigung der Bildungseinrichtung zur Vorlage bei der Ausländerbehörde\nwende dich bitte per E-Mail an das Referat Zulassung International -\ninternational.admission@zv.tu-darmstadt.de .\nZur Bearbeitung deiner Anfrage sind zwingend folgende Unterlagen bzw. Angaben erforderlich:\n● aktueller Leistungsspiegel (Download über TUCaN herunterladen),\n● Matrikelnummer,\n● vollständiger Name (Familienname, Vorname),\n● Geburtsdatum.\nBitte beachte, dass die Bearbeitung bis zu vier Wochen oder länger in Anspruch nehmen kann. Nach\nAbschluss der Bearbeitung wird dir die Bestätigung in Form eines PDF-Dokuments per E-Mail\nzugesandt. Dieses Dokument ist auch ohne Stempel und Unterschrift gültig.\nFür Rückfragen wende dich bitte ausschließlich an international.admission@zv.tu-darmstadt.de\nWenn du Fragen hast, melde dich gerne bei uns.\nMit freundlichen Grüßen\nInternational Student Services Team\nHyperlinks von oben:\nLeistungsspiegel erhalten:\nhttps://www.tu-darmstadt.de/studieren/studierende_tu/studienorganisation_und_tucan/hilfe_und_\nfaq/artikel_details_de_en_12288.de.jsp\nZulassung International Webseite: https://www.tu-darmstadt.de/international-admission"
+    }
+  },
+  {
+    "id": "study_at_tu_darmstadt_general_admission_process",
+    "intent": "study_at_tu_darmstadt_general_admission_process",
+    "title": {
+      "en": "Study at tu darmstadt / studieren an der TU / general",
+      "de": "Study at tu darmstadt / studieren an der TU / general"
+    },
+    "description": {
+      "en": "Reply template: Study at tu darmstadt / studieren an der TU / general.",
+      "de": "Antwortvorlage: Study at tu darmstadt / studieren an der TU / general."
+    },
+    "keywords": {
+      "en": [
+        "admission",
+        "deadlines",
+        "degree",
+        "internationale",
+        "online",
+        "programmes",
+        "requirements",
+        "fee",
+        "semester fee",
+        "degree programmes a to z",
+        "english-taught programmes",
+        "application deadlines",
+        "admission requirements",
+        "online application tucan",
+        "international students",
+        "no uni-assist"
+      ],
+      "de": [
+        "bewerbung",
+        "bewerbungsfristen",
+        "internationale",
+        "semesterbeitrag",
+        "studienangebot",
+        "studienfinanzierung",
+        "studieninteressierte",
+        "voraussetzungen",
+        "zulassung",
+        "studienangebot a bis z",
+        "englischsprachige studiengänge",
+        "zulassungsvoraussetzungen",
+        "online-bewerbung",
+        "internationale studierende",
+        "semesterbeitrag",
+        "kein uni-assist"
+      ]
+    },
+    "contacts": {
+      "emails": [
+        "international.admission@zv.tu-darmstadt.de"
+      ]
+    },
+    "links": [
+      "https://www.tu-darmstadt.de/studieren/studieninteressierte/bewerbung_zulassung_tu/internationale_studierende/index",
+      "https://www.tu-darmstadt.de/studieren/studieninteressierte/studienangebot_studiengaenge/index.de.jsp",
+      "https://www.tu-darmstadt.de/studieren/studieninteressierte/studienangebot_studiengaenge/index.en.jsp",
+      "https://www.tu-darmstadt.de/studieren/studieren_von_a_bis_z/artikel_details_de_en_286144.de.jsp",
+      "https://www.tu-darmstadt.de/studieren/studieren_von_a_bis_z/artikel_details_de_en_286144.en.jsp",
+      "https://www.tu-darmstadt.de/studieren/studierende_tu/internationale_studierende_1/index.de.jsp",
+      "https://www.tu-darmstadt.de/studieren/studierende_tu/internationale_studierende_1/index.en.jsp",
+      "https://www.tu-darmstadt.de/studieren/studierende_tu/internationale_studierende_1/studienfinanzierung_und_stipendi"
+    ],
+    "body": {
+      "en": "Dear {student_name},\nThank you for your e-mail and for your interest in studying at the Technical University of\nDarmstadt.\nTo help you get started with your application, please read carefully the information below.\nPlease pay attention to application deadlines and requirements before you begin the\nprocess.\n● All degree programmes from A to Z\n● Application deadlines, requirements and online application via TUCaN\n● Funding and Scholarships\n● For international students\n● Semester Fee and Banking Details\nPlease note, that the Technical University of Darmstadt handles the entire admission process\nindependently without any cooperation with Uni-Assist.\nIf you have any further questions about the application or admission process, feel free to\ne-mail international.admission@zv.tu-darmstadt.de\nWe look forward to welcoming you to our campus soon!\nKind regards,\nInternational Student Services Team\nHyperlinks from above:\nAll degree programmes:\nhttps://www.tu-darmstadt.de/studieren/studieninteressierte/studienangebot_studiengaenge/index.en.jsp\nApplication deadlines, requirements and online application via TUCaN:\nhttps://www.tu-darmstadt.de/studieren/studieninteressierte/bewerbung_zulassung_tu/internationale_studierende/index.\nen.jsp\nFunding and Scholarships:\nhttps://www.tu-darmstadt.de/studieren/studierende_tu/internationale_studierende_1/studienfinanzierung_und_stipendi\nen_international/studienfinanzierung_stipendien/index.en.jsp\nFor international students:\nhttps://www.tu-darmstadt.de/studieren/studierende_tu/internationale_studierende_1/index.en.jsp\nSemester Fee: https://www.tu-darmstadt.de/studieren/studieren_von_a_bis_z/artikel_details_de_en_286144.en.jsp",
+      "de": "Guten Tag {student_name},\ndanke für deine E-Mail und für dein Interesse an der Technischen Universität Darmstadt.\nBitte lies alle Informationen zum Bewerbungsprozess sorgfältig und achte bitte auf die\nBewerbungsfristen und Voraussetzungen, bevor du mit der Online-Bewerbung startest.\n● Studienangebot: Alle Studiengänge von A-Z\n● Bewerbungsfristen, Voraussetzungen und Online-Bewerbung über TUCaN\n● Förderung und Stipendien\n● Für Internationale Studierende\n● Semesterbeitrag\nBitte beachte auch, dass die Technische Universität Darmstadt den Zulassungsprozess\nkomplett autonom durchführt, d.h. es besteht keine Zusammenarbeit mit Uni-Assist. Solltest\ndu weitere Fragen rund um Bewerbungen und Zulassung haben, schreibe bitte eine E-Mail\nan international.admission@zv.tu-darmstadt.de\nWir hoffen, dich bald auf unserem Campus begrüßen zu dürfen.\nMit freundlichen Grüßen\nInternational Student Services Team\nHyperlinks von oben:\nStudienangebote:\nhttps://www.tu-darmstadt.de/studieren/studieninteressierte/studienangebot_studiengaenge/index.de.jsp\nBewerbungsfristen, Voraussetzungen und Online-Bewerbung über TUCaN:\nhttps://www.tu-darmstadt.de/studieren/studieninteressierte/bewerbung_zulassung_tu/internationale_studierende/index.\nde.jsp\nFörderung und Stipendien:\nhttps://www.tu-darmstadt.de/studieren/studierende_tu/internationale_studierende_1/studienfinanzierung_und_stipendi\nen_international/studienfinanzierung_stipendien/index.de.jsp\nFür Internationale Studierende:\nhttps://www.tu-darmstadt.de/studieren/studierende_tu/internationale_studierende_1/index.de.jsp\nSemesterbeitrag: https://www.tu-darmstadt.de/studieren/studieren_von_a_bis_z/artikel_details_de_en_286144.de.jsp"
+    }
+  }
+]
