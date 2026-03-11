@@ -1,6 +1,7 @@
 ## How to run
+Run the scripts/download_model.py to download the all-MiniLM-L6-v2 model. This process can take 10-20 seconds.
 Run shortcut.py. 
-Paste your own email sample, or use an example from test.txt. Type "END" to run the model.
+Paste your email sample or use an example from test.txt. Type "END" to run the model.
 
 ## Abstract
 The Template Suggester is a feasibility prototype designed to assist in selecting suitable reply templates for recurring email inquiries. The core concept is sentence-embedded template matching: the system compares incoming emails against a library of pre-written templates to identify the most semantically similar response.
