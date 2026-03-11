@@ -1,6 +1,6 @@
 ## How to run
-Run the scripts/download_model.py to download the all-MiniLM-L6-v2 model. This process can take 10-20 seconds.
-Run shortcut.py. 
+Run the scripts/download_model.py to download the all-MiniLM-L6-v2 model. This process can take 10-20 seconds. <br>
+Run shortcut.py. <br>
 Paste your email sample or use an example from test.txt. Type "END" to run the model.
 
 ## Abstract
