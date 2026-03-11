@@ -1,3 +1,7 @@
+## How to run
+Run shortcut.py. 
+Paste your own email sample, or use an example from test.txt. Type "END" to run the model.
+
 ## Abstract
 The Template Suggester is a feasibility prototype designed to assist in selecting suitable reply templates for recurring email inquiries. The core concept is sentence-embedded template matching: the system compares incoming emails against a library of pre-written templates to identify the most semantically similar response.
 In the current iteration, templates are stored in a JSON structure containing titles, descriptions, keywords, and body text. The system encodes these templates into vector embeddings. When a user inputs an email, it is encoded into the same vector space, and the system calculates cosine similarity (implemented as a dot product after normalization) to rank the templates. The application then outputs the body of the best-matching template for the user to copy, edit, and send.
