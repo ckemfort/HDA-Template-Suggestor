@@ -33,7 +33,7 @@ def _read_email_from_stdin() -> str:
 def main():
     p = argparse.ArgumentParser(description="Email Template Suggestor (Embeddings, offline)")
     p.add_argument("--templates", default="templates/templates.json", help="Path to templates.json")
-    p.add_argument("--model-path", default="models/all-MiniLM-L6-v2", help="Local path to model folder")
+    p.add_argument("--model-path", default="scripts/models/all-MiniLM-L6-v2", help="Local path to model folder")
     p.add_argument("--top-k", type=int, default=3, help="How many matches to show (default: 2)")
     p.add_argument("--min-confidence", type=float, default=0.30)
     args = p.parse_args()
